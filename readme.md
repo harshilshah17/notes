@@ -57,4 +57,7 @@
 
 #### Static Arrays
 - Arrays are a way of sorting data contiguously, in some languages, arrays have an allocated size when initialized, this means that the array cannot change after its initialization.
-- Arrays are very popular 
+
+
+#### Dynamic Arrays
+- Dynamic arrays are much more common and useful because of their ability  to be resized, in JS and Python these are default.
