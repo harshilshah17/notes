@@ -60,4 +60,4 @@
 
 
 #### Dynamic Arrays
-- Dynamic arrays are much more common and useful because of their ability  to be resized, in JS and Python these are default.
+- Dynamic arrays are much more common and useful because of their ability  to be resized, in JS and Python these are default, better to use lists.
